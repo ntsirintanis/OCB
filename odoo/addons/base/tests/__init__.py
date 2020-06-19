@@ -40,5 +40,5 @@ from . import test_res_users
 from . import test_reports
 from . import test_tests_tags
 from . import test_base_document_layout
-from . import test_form_create
+# from . import test_form_create
 from . import test_cloc
